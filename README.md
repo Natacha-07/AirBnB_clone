@@ -1,5 +1,5 @@
 # 0x00. AirBnB clone - The console
-![image](https://user-images.githubusercontent.com/99505029/183499450-0182bea2-c1fa-465c-b2da-5e19e36b0273.png)     ![image](https://user-images.githubusercontent.com/99505029/183499545-d0553a1b-cb2e-4b74-8e20-20f8c4621819.png)
+![image](https://user-images.githubusercontent.com/99505029/183499450-0182bea2-c1fa-465c-b2da-5e19e36b0273.png)
 
 ## Requirements
 
