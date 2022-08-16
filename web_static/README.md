@@ -73,4 +73,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Oluwakemi Akinloye** - [aysuarex](https://github.com/Natacha-07)
+* **Oluwakemi Akinloye** - [Natacha-07](https://github.com/Natacha-07)
